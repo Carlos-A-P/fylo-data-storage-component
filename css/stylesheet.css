@@ -245,4 +245,8 @@ p.text span {
 		top: 45px;
 		right: 1.2px;
 	}
+	
+	.footer {
+		margin-top: 27rem;
+	}
 }
