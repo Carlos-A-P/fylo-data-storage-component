@@ -41,7 +41,7 @@ Users should be able to:
 
 This is project is a challenge to test my css skills. I used HTML and CSS to complete the project and what I found most helpful was the clip-path style property and position property
 
-Here is some code that I wrote in order to complete this task
+The following html syntax is a second pop-up which refers to the desktop pop-up for storage left
 
 ```HTML
     <div class="pop-up-2">
@@ -50,6 +50,9 @@ Here is some code that I wrote in order to complete this task
     </div>
 
 ```
+
+- I learned how to use position: absolute and position relative. I thought it would get too complicated if I have too many relative positioned elements.
+- I also learned about the clip-path property which shapes a div
 
 ```CSS
 	.clipped-square {
